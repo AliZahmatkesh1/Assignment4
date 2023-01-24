@@ -25,7 +25,7 @@ while True :
 
 
 
-        print (n.sort() , "\n")
+        print (n , "\n")
 
         for s in n :
             print(s)
